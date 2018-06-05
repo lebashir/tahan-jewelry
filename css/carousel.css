@@ -1,0 +1,12 @@
+.owl-theme .owl-dots {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.owl-theme .owl-nav {
+    position: absolute;
+    bottom: 50%;
+
+}
