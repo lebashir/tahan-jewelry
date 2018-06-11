@@ -5,9 +5,10 @@ $('.nav-link').hover(function() {
 $('.owl-carousel').owlCarousel({
     loop: true,
     margin: 10,
-    nav: true,
+    nav: false,
     animateOut: 'fadeOut',
-    animateIn: 'fadeIn',
+    animateIn: 'fadeInDown',
+
     autoplay: true,
     responsive: {
         0: {
